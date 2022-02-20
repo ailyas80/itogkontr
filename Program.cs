@@ -44,7 +44,6 @@ string[] CreatArrayWithSizeLessOrEqual3(string[] stringArray, int sizeNewArray)
   return newStringArray;
 }
 
-
 PrintStringArray(stringArray);
 int sizeNewArray = SearchStringWithSizeLessOrEqual3(stringArray); 
 string[] newStringArray = CreatArrayWithSizeLessOrEqual3(stringArray, sizeNewArray); 
